@@ -1,6 +1,6 @@
 ##  Atharva Dethe
 
-### Digital Creator | Full Stack Developer | Tech Explorer
+###  Full Stack Developer | Tech Explorer
 
 Hey, I'm **Atharva Dethe**, a passionate **full-stack developer** and problem solver. I love exploring new technologies, working on innovative projects, and constantly learning to push my limits.
 
