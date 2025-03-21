@@ -4,6 +4,8 @@
 
 Hey, I'm **Atharva Dethe**, a passionate **full-stack developer** and problem solver. I love exploring new technologies, working on innovative projects, and constantly learning to push my limits.
 
+![Atharva's GitHub Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ### 🚀 What I Do
 - **Full Stack Development:** Crafting seamless web applications from front to back.
 - **Tech Enthusiast:** Exploring the latest trends in technologies.
