@@ -1,4 +1,4 @@
-## ❄ Atharva Dethe
+##  Atharva Dethe
 
 ### Digital Creator | Full Stack Developer | Tech Explorer
 
