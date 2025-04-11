@@ -4,7 +4,6 @@
 
 Hey, I'm **Atharva Dethe**, a passionate **full-stack developer** and problem solver. I love exploring new technologies, working on innovative projects, and constantly learning to push my limits.
 
-![Atharva's GitHub Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🚀 What I Do
 - **Full Stack Development:** Crafting seamless web applications from front to back.
@@ -24,6 +23,7 @@ Hey, I'm **Atharva Dethe**, a passionate **full-stack developer** and problem so
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+![Atharva's GitHub Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hyeWhoOHVmNnZ6Ym4xbTd6NHdvcGJ1dzZscjl1bDhlZzQzcXNmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
 
 
 ### 🌍 Let's Connect
