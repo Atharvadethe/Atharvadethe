@@ -10,8 +10,7 @@ Hey, I'm **Atharva Dethe**, a passionate **full-stack developer** and problem so
 - **Tech Enthusiast:** Exploring the latest trends in technologies.
 - **Problem Solver:** Engaging in **DSA** to sharpen my skills.
 - **Project Builder:** Bringing ideas to life with practical implementations.
--  **System Design & Architecture**  
-  Designing scalable, efficient, and maintainable systems — thinking not just about code but about the bigger picture.
+-  **System Design & Architecture** Designing scalable, efficient, and maintainable systems — thinking not just about code but the bigger picture.
 
 ### 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
